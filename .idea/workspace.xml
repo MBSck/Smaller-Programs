@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6da17bf4-18fe-422a-90e4-fb29e8329b3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/scripts/Python_Class/Exercisesheet 4/Exercise 10.3.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JupyterTrust" id="aae602d3-c364-47a4-92fb-d55102139da2" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="wu323dij" />
+  </component>
+  <component name="ProjectId" id="1ZrowV8E6OZqSwCfZQQANmFq471" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marte\PycharmProjects\Python_Learning\scripts\Other Projects" />
+      <recent name="$PROJECT_DIR$/scripts/Machine Learning/MNIST/Pictures" />
+      <recent name="$PROJECT_DIR$/scripts/Machine Learning/MNIST" />
+      <recent name="C:\Users\Marten\PycharmProjects\Learning_Python\scripts" />
+      <recent name="C:\Users\Marten\PycharmProjects\Learning_Python\scripts\Cryptography" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Hamilton-Jacobi-Kepler-Orbit">
+    <configuration name="Discord_Bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/Bots/Discord" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/Bots/Discord/Discord_Bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hamilton-Jacobi-Kepler-Orbit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/Other Projects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/Other Projects/Hamilton-Jacobi-Kepler-Orbit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LinefitInterpolation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/Masterarbeit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/Masterarbeit/LinefitInterpolation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RamanShitNiller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/Other Projects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/Other Projects/RamanShitNiller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Hamilton-Jacobi-Kepler-Orbit" />
+        <item itemvalue="Python.Discord_Bot" />
+        <item itemvalue="Python.scratch_1" />
+        <item itemvalue="Python.LinefitInterpolation" />
+        <item itemvalue="Python.RamanShitNiller" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6da17bf4-18fe-422a-90e4-fb29e8329b3e" name="Default Changelist" comment="" />
+      <created>1585606812744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585606812744</updated>
+      <workItem from="1590005834771" duration="4351000" />
+      <workItem from="1590077453120" duration="11151000" />
+      <workItem from="1590127492031" duration="11684000" />
+      <workItem from="1590145131847" duration="3032000" />
+      <workItem from="1590228019492" duration="3000" />
+      <workItem from="1590235183138" duration="774000" />
+      <workItem from="1590238245816" duration="6620000" />
+      <workItem from="1590271134523" duration="729000" />
+      <workItem from="1590271873055" duration="204000" />
+      <workItem from="1590276486968" duration="129000" />
+      <workItem from="1590276647461" duration="175000" />
+      <workItem from="1590315164860" duration="13430000" />
+      <workItem from="1590783250884" duration="436000" />
+      <workItem from="1591034290568" duration="32000" />
+      <workItem from="1591401148627" duration="7032000" />
+      <workItem from="1591445101160" duration="3693000" />
+      <workItem from="1591457469336" duration="6025000" />
+      <workItem from="1592081765569" duration="141000" />
+      <workItem from="1592132742807" duration="1953000" />
+      <workItem from="1592675541337" duration="241000" />
+      <workItem from="1592684892108" duration="16000" />
+      <workItem from="1592687231838" duration="65000" />
+      <workItem from="1592751054133" duration="7901000" />
+      <workItem from="1593290058465" duration="2751000" />
+      <workItem from="1593334835055" duration="66000" />
+      <workItem from="1593350900486" duration="1467000" />
+      <workItem from="1593352383019" duration="2947000" />
+      <workItem from="1593363063661" duration="5924000" />
+      <workItem from="1593422876202" duration="49000" />
+      <workItem from="1593620823731" duration="194000" />
+      <workItem from="1593714367913" duration="627000" />
+      <workItem from="1593725564913" duration="1045000" />
+      <workItem from="1593794479590" duration="2394000" />
+      <workItem from="1593810927644" duration="1472000" />
+      <workItem from="1593879196736" duration="16000" />
+      <workItem from="1593967531070" duration="1370000" />
+      <workItem from="1593972970691" duration="7959000" />
+      <workItem from="1594060268469" duration="6389000" />
+      <workItem from="1594115586877" duration="114000" />
+      <workItem from="1594116062366" duration="2160000" />
+      <workItem from="1594145317525" duration="1524000" />
+      <workItem from="1594412711508" duration="7527000" />
+      <workItem from="1594992407714" duration="24000" />
+      <workItem from="1594994627780" duration="2744000" />
+      <workItem from="1595104140377" duration="3576000" />
+      <workItem from="1595537480256" duration="3122000" />
+      <workItem from="1595716754371" duration="16000" />
+      <workItem from="1595716995382" duration="60000" />
+      <workItem from="1595754631197" duration="1994000" />
+      <workItem from="1595768310527" duration="33000" />
+      <workItem from="1595775746594" duration="14014000" />
+      <workItem from="1595878158306" duration="6767000" />
+      <workItem from="1595921972418" duration="9631000" />
+      <workItem from="1595944282452" duration="1459000" />
+      <workItem from="1601753581933" duration="438000" />
+      <workItem from="1602768037788" duration="79000" />
+      <workItem from="1603469170888" duration="2434000" />
+      <workItem from="1604195919618" duration="59000" />
+      <workItem from="1604435207245" duration="17193000" />
+      <workItem from="1604524304925" duration="698000" />
+      <workItem from="1604566369172" duration="5849000" />
+      <workItem from="1604781712694" duration="10296000" />
+      <workItem from="1604795793619" duration="1729000" />
+      <workItem from="1604797524138" duration="3171000" />
+      <workItem from="1604833532804" duration="689000" />
+      <workItem from="1604850815873" duration="4563000" />
+      <workItem from="1605049064462" duration="460000" />
+      <workItem from="1605130586529" duration="646000" />
+      <workItem from="1605185695426" duration="9122000" />
+      <workItem from="1605216822046" duration="2554000" />
+      <workItem from="1605258152448" duration="4622000" />
+      <workItem from="1605373558926" duration="3090000" />
+      <workItem from="1605560400214" duration="9214000" />
+      <workItem from="1605608259500" duration="1875000" />
+      <workItem from="1605728529279" duration="1122000" />
+      <workItem from="1606121665012" duration="381000" />
+      <workItem from="1607519562796" duration="7952000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scripts/MIT_Course.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Learning$BasicsByHand.coverage" NAME="BasicsByHand Coverage Results" MODIFIED="1595757465908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Machine Learning" />
+    <SUITE FILE_PATH="coverage/Learning_Python$telnetlib_example_dbc6ff5dc4dcfac568d7978a801d3ead.coverage" NAME="telnetlib_example_dbc6ff5dc4dcfac568d7978a801d3ead Coverage Results" MODIFIED="1591407110447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Cryptography/Introduction" />
+    <SUITE FILE_PATH="coverage/Python_Learning$Hamilton_Jacobi_Kepler_Orbit.coverage" NAME="Hamilton-Jacobi-Kepler-Orbit Coverage Results" MODIFIED="1607527760132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Other Projects" />
+    <SUITE FILE_PATH="coverage/Learning_Python$Exercise_10_3.coverage" NAME="Exercise 10.3 Coverage Results" MODIFIED="1590090210094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Python_Class/Exercisesheet 4" />
+    <SUITE FILE_PATH="coverage/Learning_Python$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1590009235323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/Python_Learning$PictureReformatter.coverage" NAME="PictureReformatter Coverage Results" MODIFIED="1595798108930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Machine Learning/MNIST/Pictures" />
+    <SUITE FILE_PATH="coverage/Learning_Python$spot_angle_saver.coverage" NAME="spot_angle_saver Coverage Results" MODIFIED="1590333076261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Masterarbeit" />
+    <SUITE FILE_PATH="coverage/Python_Learning$Web_Scraping.coverage" NAME="Web Scraping Coverage Results" MODIFIED="1595717040068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Other Projects" />
+    <SUITE FILE_PATH="coverage/Learning_Python$Caesar_encoding.coverage" NAME="Caesar encoding Coverage Results" MODIFIED="1591406014737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Encryption" />
+    <SUITE FILE_PATH="coverage/Python_Learning$RamanShitNiller.coverage" NAME="RamanShitNiller Coverage Results" MODIFIED="1603479622497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Other Projects" />
+    <SUITE FILE_PATH="coverage/Learning_Python$Exercise_17_4.coverage" NAME="Exercise 17.4 Coverage Results" MODIFIED="1592143092125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Python_Class/Exercisesheet 7" />
+    <SUITE FILE_PATH="coverage/Python_Learning$Wallpaper_Scrape.coverage" NAME="Wallpaper Scrape Coverage Results" MODIFIED="1595107720292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Webscraping" />
+    <SUITE FILE_PATH="coverage/Learning_Python$Caesar_encoding__1_.coverage" NAME="Caesar encoding (1) Coverage Results" MODIFIED="1591445904523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Cryptography/Encryption" />
+    <SUITE FILE_PATH="coverage/Python_Learning$Caesar_encoding.coverage" NAME="Caesar encoding Coverage Results" MODIFIED="1602766882468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Cryptography/Encryption" />
+    <SUITE FILE_PATH="coverage/Python_Learning$Multithread.coverage" NAME="Multithread Coverage Results" MODIFIED="1595883320244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Multithreading" />
+    <SUITE FILE_PATH="coverage/Python_Learning$astronomy.coverage" NAME="astronomy Coverage Results" MODIFIED="1593985745884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Astronomy" />
+    <SUITE FILE_PATH="coverage/Learning_Python$Exercise_12_1.coverage" NAME="Exercise 12.1 Coverage Results" MODIFIED="1590139618302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Python_Class/Exercisesheet 4" />
+    <SUITE FILE_PATH="coverage/Learning_Python$ASCII.coverage" NAME="ASCII Coverage Results" MODIFIED="1591407590907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Cryptography/General/Data Formats" />
+    <SUITE FILE_PATH="coverage/Python_Learning$WG_Miete.coverage" NAME="WG_Miete Coverage Results" MODIFIED="1594147973975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Other Projects" />
+    <SUITE FILE_PATH="coverage/Learning_Python$Exercise_10_2.coverage" NAME="Exercise 10.2 Coverage Results" MODIFIED="1590146516040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Python_Class/Exercisesheet 4" />
+    <SUITE FILE_PATH="coverage/Learning_Python$A1Z26_Cipher.coverage" NAME="A1Z26 Cipher Coverage Results" MODIFIED="1590011321158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Encryption" />
+    <SUITE FILE_PATH="coverage/Python_Learning$PCAMNIST.coverage" NAME="PCAMNIST Coverage Results" MODIFIED="1601753893379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Machine Learning/MNIST" />
+    <SUITE FILE_PATH="coverage/Python_Learning$PictureReformatter__1_.coverage" NAME="PictureReformatter (1) Coverage Results" MODIFIED="1595799682391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Machine Learning/MNIST/ReformattedPictures" />
+    <SUITE FILE_PATH="coverage/Python_Learning$TerminalQuotes.coverage" NAME="TerminalQuotes Coverage Results" MODIFIED="1594996976009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Other Projects" />
+    <SUITE FILE_PATH="coverage/Python_Learning$KerasAndNeuralNetwork.coverage" NAME="KerasAndNeuralNetwork Coverage Results" MODIFIED="1595921727940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Machine Learning/MNIST" />
+    <SUITE FILE_PATH="coverage/Python_Learning$PrincipleComponentAnalysis.coverage" NAME="PrincipleComponentAnalysis Coverage Results" MODIFIED="1595929404379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Machine Learning/MNIST" />
+    <SUITE FILE_PATH="coverage/Python_Learning$MNIST.coverage" NAME="MNIST Coverage Results" MODIFIED="1595797197385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Machine Learning" />
+    <SUITE FILE_PATH="coverage/Learning_Python$Atbash_Cipher.coverage" NAME="Atbash Cipher Coverage Results" MODIFIED="1590011161508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Encryption" />
+    <SUITE FILE_PATH="coverage/Learning_Python$astronomy.coverage" NAME="astronomy Coverage Results" MODIFIED="1593811099849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Astronomy" />
+    <SUITE FILE_PATH="coverage/Python_Learning$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1602766537342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/Python_Learning$LinefitInterpolation.coverage" NAME="LinefitInterpolation Coverage Results" MODIFIED="1605264845411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Masterarbeit" />
+    <SUITE FILE_PATH="coverage/Python_Learning$scratch_1.coverage" NAME="scratch_1 Coverage Results" MODIFIED="1605560781579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/Learning_Python$Exercise_15_4.coverage" NAME="Exercise 15.4 Coverage Results" MODIFIED="1591401169968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Python_Class/Exercisesheet 6" />
+    <SUITE FILE_PATH="coverage/Python_Learning$Discord_Bot.coverage" NAME="Discord_Bot Coverage Results" MODIFIED="1607519639624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Bots/Discord" />
+    <SUITE FILE_PATH="coverage/Python_Learning$connect.coverage" NAME="connect Coverage Results" MODIFIED="1594423021448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Arduino" />
+    <SUITE FILE_PATH="coverage/Python_Learning$A1Z26_Cipher.coverage" NAME="A1Z26 Cipher Coverage Results" MODIFIED="1602766824487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Cryptography/Encryption" />
+    <SUITE FILE_PATH="coverage/Learning_Python$Exercise_12_2.coverage" NAME="Exercise 12.2 Coverage Results" MODIFIED="1590147923013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/Python_Class/Exercisesheet 4" />
+  </component>
+</project>
